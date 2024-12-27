@@ -1,9 +1,9 @@
 /*╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺
     ⭐ＰＲＯＪＥＣＴ ＮＡＭＥ:
-    ＳＵＢＺＥＲＯ ＷＨＡＴＳＡＰＰ ＭＤ ＢＯＴ
+    MR JERRY  ＭＤ ＢＯＴ
     
     ⭐ＤＥＶＥＬＯＰＥＲ
-     ＭＲ ＦＲＡＮＫ 
+     ＭＲ JERRY 
      
     ⭐ ＭＹ ＴＥＡＭ
      ＸＥＲＯ ＣＯＤＥＲＳ
@@ -26,7 +26,7 @@ function convertToBool(text, fault = 'true') {
 //--------------------------Mr Frank---------------------------------------
 module.exports = {
 
-SESSION_ID: process.env.SESSION_ID || "ENTER YOUR SUBZERO SESSION HERE",
+SESSION_ID: process.env.SESSION_ID || "3RIXgLIb#lp7jG8b4OGld5wbsNrM2v4dkJYMBeh7CMbwGk9XJYgI",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true", //TRUE OR FALSE
 OWNER_NUMBER: process.env.OWNER_NUMBER || "18062212660",
 MODE: process.env.MODE || "public",  // PRIVATE OR PUBLIC
@@ -39,10 +39,10 @@ ANTI_LINK: process.env.ANTI_LINK || "true",
 ANTI_BAD: process.env.ANTI_BAD || "true",
 PREFIX: process.env.PREFIX || ".", // .,!/?
 FAKE_RECORDING: process.env.FAKE_RECORDING || "false",
-AUTO_REACT: process.env.AUTO_REACT || "false",
-HEART_REACT: process.env.HEART_REACT || "false",
-OWNER_REACT: process.env.OWNER_REACT || "false",
-BOT_NAME: process.env.BOT_NAME || "『 ＳＵＢＺＥＲＯ - ＭＤ 』",
+AUTO_REACT: process.env.AUTO_REACT || "true",
+HEART_REACT: process.env.HEART_REACT || "true",
+OWNER_REACT: process.env.OWNER_REACT || "true",
+BOT_NAME: process.env.BOT_NAME || "『 MR.JERRY AND HEER- ＭＤ 』",
 OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
 };
 
